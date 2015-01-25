@@ -1,6 +1,6 @@
-# Mbjson
+# MusicBrainz-JSON
 
-TODO: Write a gem description
+A Ruby Wrapper for the MusicBrainz JSON API
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Coming Soon!
 
 ## Contributing
 
